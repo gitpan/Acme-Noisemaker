@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Acme-Noisemaker
-version:             0.003
+version:             0.004
 abstract:            Visual noise generator
 license:             open_source
 author:              
