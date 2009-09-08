@@ -1,4 +1,15 @@
-Sep 2009: Added example images to ex/ dir and inline with pod
+Sep 2009: .005
+  - Added spheremap option! They're fake but good.
+  - Added refractive palette option, looks like fractals
+  - Fixed bug with size of output images, was off by one in smooth function
+  - Added $QUIET option
+  - Allow negative feather vals for cool effects
+  - Complex noise now skips an un-needed smoothing step
+  - Tweaked default args
 
-Sep 2009: Initial release
+Sep 2009: .004
+  - Added example images to ex/ dir and inline with pod
+
+Sep 2009: .001
+  - Initial release
 
