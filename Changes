@@ -1,3 +1,8 @@
+Sep 2009: .006
+  - Added a script to generate lots of example noise
+  - Tweaked scale at polar regions to more closely match look of equator
+  - Refractive spheremaps should look better
+
 Sep 2009: .005
   - Added spheremap option! They're fake but good.
   - Added refractive palette option, looks like fractals
